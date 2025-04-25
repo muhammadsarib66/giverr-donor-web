@@ -1,7 +1,5 @@
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import React from "react";
-import { useEffect, useRef, useState } from "react";
 import { GiverrAuth, giverrDarkLogo,  leftArrow,  rightArrow } from "../../assets/Icons";
 import PrimaryBtn from "../../component/common/PrimaryBtn"; // Assuming you saved PrimaryBtn
 import { useNavigate } from "react-router-dom";

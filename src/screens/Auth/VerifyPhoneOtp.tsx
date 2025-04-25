@@ -47,7 +47,7 @@ const EmailAuth = () => {
           inputRefs.current[index - 1].focus();
         }
       }
-  
+  console.log(canResend,'ss')
   return (
     <section className="flex h-screen  overflow-hidden bg-white">
       <div className=" flex-1 ">
